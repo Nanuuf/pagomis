@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pagomiscuentas.com	TRUE	/	FALSE	1999999999	TS010fa2c6	017e158d194c4589884cab591a505cc7d75c0c00300af82a55d0e73ccff0fc42cd2cadbeaf1f01483f65540fababc2dc99837f4fb4
+
